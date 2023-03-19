@@ -1,0 +1,13 @@
+{
+  "mainnet": {
+    "exchanges": {}
+  },
+  "shasta": {
+    "exchanges": {},
+    "usdt": "TCCG8Vdyd96P8tJTaX7CH1S4HAmrMmW51V",
+    "hasher": "TLfQk7UKLk1XLaVyj9k1yyNZoXhJyo7rZU",
+    "verifier": "TMPgLxWjq6uQ7LqwPujiXhQWpXPdbeanh1",
+    "ethTornado": "TR3SnNo3fKjRbKALHvnd7cgtQrEBehqfPo",
+    "erc20Tornado": "THAABYVLxvQ77DAYbsEQqEyowwPhRaFqce"
+  }
+}
